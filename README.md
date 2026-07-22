@@ -25,7 +25,7 @@ Spring-Gen helps developers quickly create common domain layers such as entities
 Clone the repository:
 
 ```bash
-git clone https://github.com/<username>/spring-gen.git
+git clone https://github.com/riseupcoder/spring-gen.git
 ```
 
 Copy the generator files into your Spring Boot project root:
